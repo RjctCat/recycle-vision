@@ -1,0 +1,12 @@
+clase,train,val,test,total
+plasticos,604,129,130,863
+carton,623,133,135,891
+papel,735,157,158,1050
+vidrio,840,180,180,1200
+metales,537,115,116,768
+organicos,689,147,149,985
+textiles,840,180,180,1200
+baterias,661,141,143,945
+otros,487,104,106,697
+vacio,300,11,13,324
+TOTAL,6316,1297,1310,8923

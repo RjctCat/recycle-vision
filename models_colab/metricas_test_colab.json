@@ -1,0 +1,13 @@
+{
+  "exactitud_val": 0.9429452582883577,
+  "exactitud_test": 0.9412213740458015,
+  "macro_precision_test": 0.9387871704404578,
+  "macro_recall_test": 0.9487046883074232,
+  "macro_f1_test": 0.9429949193929085,
+  "tamano_modelo_mb": 21.869788,
+  "inferencia_cpu_ms_mediana": 245.33788350004215,
+  "inferencia_cpu_ms_p95": 328.17143774998385,
+  "imagenes_por_segundo_lote": 1266.9794639727309,
+  "epocas_totales": 21,
+  "tensorflow": "2.21.0"
+}

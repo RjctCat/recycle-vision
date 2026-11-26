@@ -1,0 +1,23 @@
+{
+  "umbral": 0.86,
+  "objetivo_exactitud_aceptados_pct": 98.0,
+  "validacion": {
+    "decididos_pct": 88.25816485225505,
+    "sin_verificar_pct": 11.74183514774495,
+    "exactitud_aceptados_pct": 98.06167400881057,
+    "errores_evitados_pct": 70.27027027027027,
+    "falso_rechazo_pct": 1.7107309486780715,
+    "falsa_aceptacion_pct": 0.21384136858475894,
+    "tomado_por_vacio_pct": 0.0
+  },
+  "prueba": {
+    "decididos_pct": 89.36006168080185,
+    "sin_verificar_pct": 10.63993831919815,
+    "exactitud_aceptados_pct": 97.84296807592753,
+    "errores_evitados_pct": 67.53246753246754,
+    "falso_rechazo_pct": 1.9275250578257517,
+    "falsa_aceptacion_pct": 0.24094063222821896,
+    "tomado_por_vacio_pct": 0.0
+  },
+  "vacio_reconocido_prueba_pct": 84.61538461538461
+}

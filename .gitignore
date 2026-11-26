@@ -1,0 +1,37 @@
+# ---------- Python ----------
+__pycache__/
+*.py[cod]
+*.egg-info/
+.ipynb_checkpoints/
+
+# ---------- Entornos virtuales ----------
+venv/
+.venv/
+env/
+
+# ---------- Editores y sistema ----------
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ---------- Datos (pesados, no se suben) ----------
+data/
+processed/
+processed.zip
+dataset/
+
+# ---------- Generado por la aplicación al usarla ----------
+capturas/
+capturas_web/
+reports/
+
+# ---------- Archivos temporales ----------
+*.tmp
+*.log
+
+# ---------- Secretos (por si acaso) ----------
+.env
+*.pem
+*.key
