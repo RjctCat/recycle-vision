@@ -5,9 +5,6 @@ Control visual inteligente de ingreso de residuos para contenedores inteligentes
 Una red neuronal convolucional (MobileNetV2 con transferencia de aprendizaje) reconoce el tipo de residuo que ingresa a un contenedor y una regla de decisión **acepta, rechaza o deja sin verificar** el ingreso según las categorías asignadas a ese contenedor. Un Arduino con servomotor abre la compuerta solo cuando el ingreso es aceptado.
 
 > Proyecto académico — Redes Neuronales, Semestre 8, Paralelo A — Universidad de Aquino Bolivia (UDABOL), Ingeniería de Sistemas.
-> **Autores:** Ronaldo Jose Canaviri Tola y Juan David Figueredo Cruz
-> **Docente:** Ing. Roger Rolando Perez Rojas
-
 ---
 
 ## Cómo funciona
